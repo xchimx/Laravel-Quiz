@@ -1,12 +1,12 @@
 # About Laravel Quiz App
 
-This is a Quiz Content Generator based on Laravel 8, Livewire 2, AdminLTE and Bootstrap
+This is a Quiz Content Generator based on Laravel 8, Livewire 2, AlpineJS, AdminLTE and Bootstrap
 
-- [Laravel](https://laravel.com/docs/routing)
-- [Filament](https://filamentphp.com/)
+- [Laravel](https://laravel.com/)
 - [Livewire](https://laravel-livewire.com/)
 - [Alpine.js](https://alpinejs.dev/)
-- [Tailwind CSS](https://tailwindcss.com/)
+- [AdminLTE](https://github.com/jeroennoten/Laravel-AdminLTE)
+- [Bootstrap](https://getbootstrap.com/)
 
 ## Getting started
 * clone project `git clone [...]`
